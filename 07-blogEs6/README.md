@@ -1,9 +1,7 @@
-# 執行方法
+# 运行
 
 ```
 $ node app
 ```
 
-然後啟動瀏覽器看 http://localhost:3000/
-
-開始新增修改留言。
+http://localhost:3000/

@@ -1,10 +1,9 @@
-# 執行方法
+# 运行
 
 ```
 $ node streamfile
 ```
 
-然後啟動瀏覽器看 
 
 http://localhost:3000/streamfile.js
 http://localhost:3000/README.md

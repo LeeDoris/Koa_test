@@ -1,7 +1,7 @@
 {
-  "name": "road2koa",
+  "name": "koaTest",
   "version": "0.0.1",
-  "description": "學習 koa 的非官方範例",
+  "description": "koa",
   "main": "index.js",
   "dependencies": {
     "async-busboy": "^0.3.4",
@@ -26,14 +26,13 @@
     "async",
     "await"
   ],
-  "homepage": "https://github.com/ccckmit/road2koa",
   "repository": {
     "type": "git",
-    "url": "http://github.com/ccckmit/road2koa.git"
+    "url": "https://github.com/LeeDoris/Koa_test.git"
   },
   "author": {
-    "name": "Chung-Chen Chen",
-    "email": "ccckmit@gmail.com"
+    "name": "Cap Lee",
+    "email": "liangzelee@gmail.com"
   },
   "license": "MIT"
 }

@@ -1,8 +1,8 @@
-# 執行方法
+# 运行
 
 ```
 $ node helloKoa
 ```
 
-然後啟動瀏覽器看 http://localhost:3000/
+ http://localhost:3000/
 
